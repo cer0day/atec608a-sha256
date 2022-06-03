@@ -9,8 +9,8 @@ https://github.com/GabrielNotman/cryptoauthlib
 
 #Modificaciones a la libreria para esta prueba
 
-Archivo modificado          |  Funion modificada    |      No. de linea    |     Valor por defecto    |      Valor para esta prueba
+Archivo modificado       |  Funion modificada | No. de linea  | Valor por defecto |  Valor para esta prueba
 
-eccX08 comm marshaling.h       SHA DELAY                     579                     0.7 y 0.5                   0 y 0
+eccX08 comm marshaling.h |    SHA DELAY       | 579           |  0.7 y 0.5        |  0 y 0
 
-eccX08 comm.h                  ECCX08 COMMAND_EXEC MAX        31                    120 y 0.5                    0 y 0
+eccX08 comm.h            |  ECCX08 COMMAND_EXEC MAX  | 31    |  120 y 0.5         |  0 y 0
